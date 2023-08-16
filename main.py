@@ -1,3 +1,5 @@
+##### victordimelo@gmail.com #### projeto livraria - módulo 1
+
 from service.categoria_service import CategoriaService
 from service.editora_service import EditoraService
 from service.autor_service import AutorService
